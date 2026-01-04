@@ -1,8 +1,8 @@
-# \# Arduino-Based-3-Floor-Elevator-System
+#  Arduino-Based-3-Floor-Elevator-System
 
-# 
 
-# \[cite\_start]This project presents the \*\*design and implementation of a 3-floor elevator prototype\*\*\[cite: 1, 20]. \[cite\_start]It was developed as a course project by \*\*Group 08\*\* \[cite: 2] \[cite\_start]for \*\*EEE 318\*\*\[cite: 1].
+
+# [cite\_start]This project presents the \*\*design and implementation of a 3-floor elevator prototype\*\*\[cite: 1, 20]. \[cite\_start]It was developed as a course project by \*\*Group 08\*\* \[cite: 2] \[cite\_start]for \*\*EEE 318\*\*\[cite: 1].
 
 # 
 
