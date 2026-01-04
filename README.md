@@ -36,6 +36,8 @@ The study focuses on building a functional vertical transport system using an **
 
 ### Movement Components
 
+![motor](Images/upper_view.jpg)
+
 - DC motor for mechanical rotation  
 - L293D motor driver with dual H-bridge  
 
@@ -53,7 +55,8 @@ The study focuses on building a functional vertical transport system using an **
 - **Off / Idle State:** PWM value set to **50**  
 - **Sensory Feedback:**  
   Reed switch sensors detect magnetic fields and signal the Arduino to stop the motor at the correct floor.
-
+  
+![motor](Images/floor_light.jpg)
 ---
 
 ## Project Impact
