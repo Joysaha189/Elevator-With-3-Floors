@@ -76,7 +76,7 @@ This project demonstrates the practical application of **microcontrollers in aut
 - **Joy Saha (1706189)**  
 - **Ishtiaque Ahmed (1706190)**  
 - **Tasnim Rahman (1706191)**  
-- **Aong Shay Sing Marma (1706195)**
+- **Aung Shay Sing Marma (1706195)**
 
   
 **Group No:** 08
