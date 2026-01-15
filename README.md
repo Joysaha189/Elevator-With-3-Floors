@@ -77,8 +77,10 @@ This project demonstrates the practical application of **microcontrollers in aut
 - **Ishtiaque Ahmed (1706190)**  
 - **Tasnim Rahman (1706191)**  
 - **Aong Shay Sing Marma (1706195)**  
-
 **Group No:** 08
+
+Department of Electrical and Electronic Engineering\
+Bangladesh University of Engineering and Technology (BUET)
 
 ---
 
